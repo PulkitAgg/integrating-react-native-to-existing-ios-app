@@ -28,7 +28,7 @@ class NativeApp extends React.Component {
       console.warn("props",this.props)
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>We're live from React Native!!!</Text>
+        <Text style={styles.welcome}>Hello {this.props.name}, Welcome in React Native Component</Text>
       </View>
     )
   }
