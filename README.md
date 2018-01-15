@@ -25,7 +25,7 @@ Now start the server for react-native.
 `npm start`  
 After a few seconds, you should see something like this
   
-![Image](https://www.dropbox.com/s/ae4b6eslkno4ag5/Screen%20Shot%202018-01-15%20at%2011.48.34%20AM.png) .  
+![alt Image](./ConsoleOutput.png) .  
 
 ### Step 5:
 Open XCode in your mac and open NativeToReactNative folder and select NativeToReactNAtive.xcworkspace.  
